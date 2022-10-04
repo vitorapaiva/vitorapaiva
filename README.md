@@ -15,9 +15,9 @@ const aboutMe = {
          js: ["Node", "Express"],
          python: ["Django"]
       },
-      databases: ["MongoDB", "mySQL", "Postgre"]
+      databases: ["MongoDB", "mySQL", "Postgre", "Datomic"]
    },
-   currentOccupation: ["Software Engineer at PicPay"]
+   currentOccupation: ["Software Engineer at Nubank"]
 };
 ```
 </br></br>
